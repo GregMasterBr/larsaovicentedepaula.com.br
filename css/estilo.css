@@ -9,17 +9,66 @@
 	Autor URI:  
 */
 
+	header{
+		margin-top: 56px;
+	}
+	.carousel.slide .carousel-inner .carousel-item img{
+		height: 200px;
+		max-width: 100%;
+		width: 100%;
+	}
+	.carousel-item.active .container{
+		display: none;
+	}
+	.servicos, .servicos .row.text-center{
+		margin: 2% 0;
+	}
+	.servicos picture{
+	    background-color: yellow; 
+	    border-radius: 50%;
+	    display: inline-block;
+	    width: 2em;
+	    height: 2em;
+	    line-height: 2em;
+	    font-size: 4em;
+	    margin-top: 5%;
+	}
+	.servicos picture img{
+	    width: 65%;
+	    margin-bottom: 15%;
+	}
+
+
 /* Extra small devices (portrait phones, less than 576px)
  No media query since this is the default in Bootstrap
 
  Small devices (landscape phones, 576px and up)*/ 
-@media (min-width: 576px) {  }
+@media (min-width: 576px) {
+	.carousel.slide .carousel-inner .carousel-item img{
+		height: 300px;
+	}
+}
 
 /* Medium devices (tablets, 768px and up)*/ 
-@media (min-width: 768px) {  }
+@media (min-width: 768px) {
+	.carousel.slide .carousel-inner .carousel-item img{
+		height: 400px;
+	}
+}
 
 /*Large devices (desktops, 992px and up)*/
-@media (min-width: 992px) {  }
+@media (min-width: 992px) {
+	.carousel.slide .carousel-inner .carousel-item img{
+		height: 500px;
+	}
+	.carousel-item.active .container{
+		display: block;
+	}
+}
 
 /* Extra large devices (large desktops, 1200px and up)*/ 
-@media (min-width: 1200px) {  }
+@media (min-width: 1200px) {
+	.carousel.slide .carousel-inner .carousel-item img{
+		height: 600px;
+	}
+}
