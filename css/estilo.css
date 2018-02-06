@@ -17,7 +17,7 @@
 		max-width: 100%;
 		width: 100%;
 	}
-	.carousel-item.active .container{
+	.carousel-item .container{
 		display: none;
 	}
 	.patrocinador{
