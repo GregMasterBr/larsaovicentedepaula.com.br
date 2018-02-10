@@ -79,3 +79,16 @@
 		height: 600px;
 	}
 }
+
+/*PÁGINA QUEM SOMOS*/
+.paragrafo_quem_somos{
+	text-align: justify;
+	line-height: 40px;
+	margin-top: 2%;
+}
+.estrutura{
+	margin-bottom: 2%;
+}
+.h2_quem_somos{
+	text-align: center;
+}
