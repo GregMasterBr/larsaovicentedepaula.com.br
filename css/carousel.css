@@ -157,7 +157,7 @@
 }
 
 .timeline > li > .timeline-badge {
-  color: silver;
+  color: gray;
   width: 50px;
   height: 50px;
   line-height: 50px;
@@ -230,4 +230,39 @@
 }
 .container-fluid a:hover{
   color: gray;
+}
+
+/*background timeline*/
+.timeline-body{
+  background-color: rgba(0,0,0,0.5);
+}
+.timeline-panel.m1{
+  background: white url("../img/voluntario/motivo1.png") no-repeat center;
+}
+.timeline-panel.m2{
+  background: white url("../img/voluntario/motivo2.png") no-repeat center;
+}
+.timeline-panel.m3{
+  background: white url("../img/voluntario/motivo3.png") no-repeat center;
+}
+.timeline-panel.m4{
+  background: white url("../img/voluntario/motivo4.png") no-repeat center;
+}
+.timeline-panel.m5{
+  background: white url("../img/voluntario/motivo5.png") no-repeat center;
+}
+.timeline-panel.m6{
+  background: white url("../img/voluntario/motivo6.png") no-repeat center;
+}
+.timeline-panel.m7{
+  background: white url("../img/voluntario/motivo7.png") no-repeat center;
+}
+.timeline-panel.m8{
+  background: white url("../img/voluntario/motivo8.png") no-repeat center;
+}
+.timeline-panel.m9{
+  background: white url("../img/voluntario/motivo9.png") no-repeat center;
+}
+.timeline-panel.m10{
+  background: white url("../img/voluntario/motivo10.png") no-repeat center;
 }
