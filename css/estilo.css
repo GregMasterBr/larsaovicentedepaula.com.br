@@ -12,9 +12,6 @@
 	header{
 		margin-top: 56px;
 	}
-	.masthead{
-		background-color: springgreen;
-	}
 	.carousel.slide .carousel-inner .carousel-item img, .masthead .container-fluid .img-fluid{
 		height: 200px;
 		max-width: 100%;
@@ -46,6 +43,40 @@
 	.servicos picture img{
 	    width: 65%;
 	    margin-bottom: 15%;
+	}
+
+/*-----------------------------------------
+FOOTER
+-------------------------------------------*/
+	.mainfooter{
+	  background-color: black;
+	}
+	.mainfooter a{
+	  width: 100%;
+	  text-align: center;
+	}
+	.mainfooter .fa-facebook-square{
+	  margin-left: 5%;
+	  color: white;
+	}
+	.mainfooter .fa-facebook-square:hover{
+	  transition:all 0.5s ease-in-out;
+	  transform:rotate(360deg);
+	}
+	.mainfooter .fa-map-marker{
+	  color: red;
+	}
+	.mainfooter .fa-phone{
+	  color: lime;
+	}
+	.mainfooter .fa-envelope{
+	  color: silver;
+	}
+	.fas, .far{
+	  margin-right: 2%;
+	}
+	.bottomfooter{
+	  background-color: whitesmoke;
 	}
 
 
