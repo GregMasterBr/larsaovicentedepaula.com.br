@@ -14,36 +14,7 @@
 		<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 	</head>
 	<body>
-		<header class="masthead text-center pb-5">
-	      <nav class=" navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-	        <a class="navbar-brand" href="#"><abbr title="Lar São Vicente de Paulo">LSVP</abbr></a>
-	        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-	          <span class="navbar-toggler-icon"></span>
-	        </button>
-	        <div class="collapse navbar-collapse" id="navbarCollapse">
-	          <ul class="navbar-nav mr-auto">
-	            <li class="nav-item">
-	              <a class="nav-link" href="../">Início <span class="sr-only">(current)</span></a>
-	            </li>
-	            <li class="nav-item">
-	              <a class="nav-link" href="../quem-somos">Quem Somos</a>
-	            </li>
-	            <li class="nav-item active">
-	              <a class="nav-link" href="#">Voluntário</a>
-	            </li>            
-	            <li class="nav-item">
-	              <a class="nav-link disabled" href="#">Doações</a>
-	            </li>
-	          </ul>
-	        </div>
-	      </nav>
-	      <div class="container-fluid">
-	      	<img class="img-fluid mb-3 d-block mx-auto" src="../img/voluntario/voluntario.png" alt="">
-        	<h1 class="text-uppercase text-white mb-0">Seja um voluntário</h1>
-        	<hr class="star-light">
-        	<h2 class="font-weight-light text-white pr-3 pl-3 mb-0">Você pode ajudar participando das atividades do Lar, nos nossos Eventos Beneficentes, Bazares ou como Voluntário Ouvinte.</h2>
-          </div>
-	    </header>
+		<?php include('../includes/menu-principal.html');?>
 		<!--Timeline-->
 	    <section class="bg-primary">
 			<div class="container-fluid pl-4 pr-4">
@@ -248,43 +219,8 @@
     		</p>
     	</div>
 
-	    <!-- FOOTER -->
-	    <footer class="footer">
-	    	<section class="mainfooter">
-			    <div class="container-fluid">
-		    		<div class="row">
-			    		<div class="col-6 col-md-4">
-			    			<h3 class="text-uppercase text-white mb-2 mt-4">Redes Sociais</h3>
-			    			<a href="https://www.facebook.com/lsvpsorocaba/" target="_blank"><i class="fab fa-facebook-square fa-3x"></i></a>
-			    		</div>
-			    		<div class="col-6 col-md-4">	    			
-			    			<h3 class="text-uppercase text-white mb-2 mt-4">Localização</h3>
-			    			<address class="text-white">
-			    				<i class="fas fa-map-marker"></i> Avenida Betânia, 1255 - Jardim Betânia<br>
-			    				&emsp; &thinsp; Sorocaba - SP &emsp; CEP: 18071-590<br>
-			    				<i class="fas fa-phone"></i> (15) 3313-2025 ou (15) 3313-9100<br>
-			    				<i class="fas fa-envelope"></i> sorocaba.larsaovicentedepaulo@gmail.com
-			    			</address>
-			    			<h6 class="text-white">
-			    				<i class="far fa-clock"></i> Horário de visitas <br>
-			    				&emsp; &thinsp; Segunda a Sábado <br>
-			    				&emsp; &thinsp; - 09h as 11h e <br>
-			    				&emsp; &thinsp; - 14h as 17h
-			    			</h6>
-			    		</div>
-			    		<div class="col-12 col-md-4 mb-3 mt-4">
-			    			<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d126.8637920945285!2d-47.502700179538685!3d-23.45814093628245!2m2!1f236.18863887048508!2f45!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x94c5f45ee93a0f8d%3A0xa05c476a158b1b45!2sLar+S%C3%A3o+Vicente+de+Paulo!5e1!3m2!1spt-BR!2sbr!4v1518827116911" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
-			    		</div>
-			    	</div>
-		    	</div>
-	    	</section>
-	    	<section class="bottomfooter">
-		    	<div class="container">
-		    		<p class="float-right"><a href="#">Voltar para o topo</a></p>
-				    <p>© 2018 <abbr title="Alligator">ALGT</abbr> Jr. - DEVORANDO A CONCORRÊNCIA. </p>
-		    	</div>
-	    	</section>
-	    </footer>
+    	<?php include('../includes/footer.html');?>
+
 	    <!--JS depoimentos-->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
