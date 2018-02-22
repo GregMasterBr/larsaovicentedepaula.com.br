@@ -11,11 +11,23 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 		<link rel="stylesheet" type="text/css" href="../css/estilo.css" />
 		<link rel="stylesheet" type="text/css" href="../css/voluntario.css" />
-		<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 	</head>
 	<body>
+		
+		<!--**************************************
+			HEADER
+			**************************************-->
 		<?php include('../includes/menu-principal.html');?>
-		<!--Timeline-->
+		<div class="container-fluid text-center pb-5">
+	      	<img class="img-fluid mb-3 d-block mx-auto" src="../img/voluntario/voluntario.png" alt="">
+        	<h1 class="text-uppercase text-white mb-0">Seja um voluntário</h1>
+        	<hr class="star-light">
+        	<h2 class="font-weight-light text-white pr-3 pl-3 mb-0">Você pode ajudar participando das atividades do Lar, nos nossos Eventos Beneficentes, Bazares ou como Voluntário Ouvinte.</h2>
+          </div>
+
+		<!--**************************************
+			TIMELINE
+			**************************************-->
 	    <section class="bg-primary">
 			<div class="container-fluid pl-4 pr-4">
 			  <div class="page-header">
@@ -119,7 +131,10 @@
 			   Coordenador do Programa Voluntários do Conselho da Comunidade Solidária.</p>
 			</div>
 		</section>
-	    <!--Depoimentos-->
+	    
+		<!--**************************************
+			DEPOIMENTOS
+			**************************************-->
 	    <section id="contact">
 	        <div class="container">
 				<div class="row">
@@ -163,9 +178,10 @@
 				</div>
 			</div>
 		</section>
-		<!--Depoimentos-->
-
-	    <!-- Formulário Contato -->
+		
+		<!--**************************************
+			FORMULÁRIO CONTATO
+			**************************************-->
 	    <section id="contact" class="bg-dark pb-2">
 	    	<div class="container">
 		        <h2 class="text-center text-uppercase text-white mb-0 py-4">Entre em Contato</h2>
@@ -210,8 +226,12 @@
 		        </div>
 		    </div>
     	</section>
+
+		<!--**************************************
+			LINK ESTATUTO IDOSO
+			**************************************-->
     	<div class="container-fluid">
-    		<p class="text-center text-uppercase py-4">
+    		<p class="text-center text-uppercase py-4 mb-0">
     			<a href="http://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm" target="_blank">
     				<span class="badge"><img src="../icons/leis.png" alt="Estatuto do Idoso"></span>
     				Clique aqui para conhecer as leis que regem o Estatuto do Idoso
@@ -219,9 +239,14 @@
     		</p>
     	</div>
 
+		<!--**************************************
+			FOOTER
+			**************************************-->
     	<?php include('../includes/footer.html');?>
 
-	    <!--JS depoimentos-->
+	    <!--**************************************
+			JAVASCRIPT CAROUSEL
+			**************************************-->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>

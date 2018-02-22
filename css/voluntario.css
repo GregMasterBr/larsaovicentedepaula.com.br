@@ -6,7 +6,11 @@
   Autor: Anne, Gregorio, Luan e Tamires
   Autor URI:  
 */
-  .masthead{
+
+/*------------------------------------------------
+Header
+-------------------------------------------------*/
+  header, .container-fluid.text-center.pb-5{
     background-color: springgreen;
   }
 /*-------------------------------------------------
@@ -92,7 +96,7 @@ Slide Depoimento Voluntário
 }
 
 /*--------------------------------------------------
-TIMELINE
+TIMELINE Motivos p/ ser voluntário
 ----------------------------------------------------*/
 .timeline {
   list-style: none;
@@ -234,7 +238,7 @@ Copyright timeline
   -webkit-margin-after: 0;
 }
 /*--------------------------------
-Link fim da página
+Link fim da página - Estatuto idoso
 ----------------------------------*/
 .container-fluid .badge{
   color: silver;
