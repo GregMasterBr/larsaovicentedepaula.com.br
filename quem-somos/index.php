@@ -73,7 +73,7 @@
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
-      <div class="jumbotron">
+      <div class="jumbotron mb-0">
         <div class="container">
           <h1 class="display-3">ESTRUTURA</h1>
         </div>
@@ -87,7 +87,7 @@
             <div class="carousel-item active">
               <img class="featurette-image img-fluid mx-auto" src="../img/quem-somos/salaofestas.jpg" alt="salão decorado com mesas e cadeiras para festas">
               <div class="container">
-                <div class="carousel-caption text-left">
+                <div class="carousel-caption">
                   <h2 class="featurette-heading"><span class="text-muted">Salão de festas</span></h2>
                   <p class="lead">Alugue nosso salão com palco. Ampla área externa coberta para Eventos beneficentes ou particulares</p>
                 </div>
@@ -96,7 +96,7 @@
             <div class="carousel-item">
              <img class="featurette-image img-fluid mx-auto" src="../img/quem-somos/enfermagem.jpg" alt="uma sala com aparelhos de enfermagem">
               <div class="container">
-                <div class="carousel-caption text-right">
+                <div class="carousel-caption">
                   <h2 class="featurette-heading"><span class="text-muted">Ampla enfermagem masculina e feminina</span></h2>
                   <p class="lead">Profissionais especializados e atenciosos para cuidar da saúde dos moradores.</p>
                 </div>
@@ -105,7 +105,7 @@
             <div class="carousel-item">
              <img class="featurette-image img-fluid mx-auto" src="../img/quem-somos/fisioterapia.jpg" alt="duas mulheres uma em tratamento e a outra fisioterapeuta">
               <div class="container">
-                <div class="carousel-caption text-right">
+                <div class="carousel-caption">
                   <h2 class="featurette-heading"><span class="text-muted">Salão de fisioterapia</span></h2>
                   <p class="lead">Descrição das atividades na sala profissionais envolvidos</p>
                 </div>
@@ -114,7 +114,7 @@
             <div class="carousel-item">
              <img class="featurette-image img-fluid mx-auto" src="../img/quem-somos/refeitorio.jpg" alt="sala com diversas mesas e cadeiras">
               <div class="container">
-                <div class="carousel-caption text-right">
+                <div class="carousel-caption">
                   <h2 class="featurette-heading"><span class="text-muted">Refeitório</span></h2>
                   <p class="lead">Oferecemos café da manhã, almoço, café da tarde, janta e ceia com alimentos de qualidade.</p>
                 </div>
@@ -123,7 +123,7 @@
             <div class="carousel-item">
              <img class="featurette-image img-fluid mx-auto" src="../img/quem-somos/bosque.jpg" alt="natureza aberta com arvores">
               <div class="container">
-                <div class="carousel-caption text-right">
+                <div class="carousel-caption">
                   <h2 class="featurette-heading"><span class="text-muted">Bosque arborizado</span></h2>
                   <p class="lead">Espaço disponível para eventos particulares ou beneficentes,
               almoços ao ar livre, confraternizações</p>
@@ -133,7 +133,7 @@
             <div class="carousel-item">
              <img class="featurette-image img-fluid mx-auto" src="../img/quem-somos/horta.jpg" alt="verduras">
               <div class="container">
-                <div class="carousel-caption text-right">
+                <div class="carousel-caption">
                   <h2 class="featurette-heading"><span class="text-muted">Horta Coletiva</span></h2>
                   <p class="lead">Cultivos de diversos tipos de verduras</p>
                 </div>
@@ -142,7 +142,7 @@
             <div class="carousel-item">
              <img class="featurette-image img-fluid mx-auto" src="../img/quem-somos/salatv.jpg" alt="um armario com uma televisão">
               <div class="container">
-                <div class="carousel-caption text-right">
+                <div class="carousel-caption">
                   <h2 class="featurette-heading"><span class="text-muted">Salas de TV</span></h2>
                   <p class="lead">Diversão em salas e atividades paralelas</p>
                 </div>
@@ -160,7 +160,7 @@
             <div class="carousel-item">
              <img class="featurette-image img-fluid mx-auto" src="../img/quem-somos/cantinho.jpg" alt="fisioterapia">
               <div class="container">
-                <div class="carousel-caption text-right">
+                <div class="carousel-caption">
                   <h2 class="featurette-heading"><span class="text-muted">Cantinho do vovô</span></h2>
                   <p class="lead">Espaço para atividades específicas com profissionais especializados</p>
                 </div>
@@ -178,42 +178,9 @@
         </div> <!-- END CAROUSEL SLIDER -->
       </div> 
     <!-- FOOTER -->
-      <footer class="footer">
-        <section class="mainfooter">
-          <div class="container-fluid">
-            <div class="row">
-              <div class="col-6 col-md-4">
-                <h3 class="text-uppercase text-white mb-2 mt-4">Redes Sociais</h3>
-                <a href="https://www.facebook.com/lsvpsorocaba/" target="_blank"><i class="fab fa-facebook-square fa-3x"></i></a>
-              </div>
-              <div class="col-6 col-md-4">            
-                <h3 class="text-uppercase text-white mb-2 mt-4">Localização</h3>
-                <address class="text-white">
-                  <i class="fas fa-map-marker"></i> Avenida Betânia, 1255 - Jardim Betânia<br>
-                  &emsp; &thinsp; Sorocaba - SP &emsp; CEP: 18071-590<br>
-                  <i class="fas fa-phone"></i> (15) 3313-2025 ou (15) 3313-9100<br>
-                  <i class="fas fa-envelope"></i> sorocaba.larsaovicentedepaulo@gmail.com
-                </address>
-                <h6 class="text-white">
-                  <i class="far fa-clock"></i> Horário de visitas <br>
-                  &emsp; &thinsp; Segunda a Sábado <br>
-                  &emsp; &thinsp; - 09h as 11h e <br>
-                  &emsp; &thinsp; - 14h as 17h
-                </h6>
-              </div>
-              <div class="col-12 col-md-4 mb-3 mt-4">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d126.8637920945285!2d-47.502700179538685!3d-23.45814093628245!2m2!1f236.18863887048508!2f45!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x94c5f45ee93a0f8d%3A0xa05c476a158b1b45!2sLar+S%C3%A3o+Vicente+de+Paulo!5e1!3m2!1spt-BR!2sbr!4v1518827116911" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
-              </div>
-            </div>
-          </div>
-        </section>
-        <section class="bottomfooter">
-          <div class="container">
-            <p class="float-right"><a href="#">Voltar para o topo</a></p>
-            <p>© 2018 <abbr title="Alligator">ALGT</abbr> Jr. - DEVORANDO A CONCORRÊNCIA. </p>
-          </div>
-        </section>
-      </footer>
+      <?php
+        include('../includes/footer.html')
+      ?>
       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
