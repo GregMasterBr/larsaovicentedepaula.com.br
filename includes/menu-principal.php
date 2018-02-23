@@ -1,5 +1,5 @@
 <?php
-  if (preg_match("%TurismoSMA/$%", $_SERVER['REQUEST_URI']))
+  if (preg_match("%larsaovicentedepaula.com.br/$%", $_SERVER['REQUEST_URI']))
   { 
 ?>
     <header>
