@@ -17,7 +17,7 @@
 		<!--**************************************
 			HEADER
 			**************************************-->
-		<?php include('../includes/menu-principal.html');?>
+		<?php include('../includes/menu-principal.php');?>
 		<div class="container-fluid text-center pb-5">
 	      	<img class="img-fluid mb-3 d-block mx-auto" src="../img/voluntario/voluntario.png" alt="">
         	<h1 class="text-uppercase text-white mb-0">Seja um voluntário</h1>

@@ -19,7 +19,7 @@
 		<!--**************************************
 			HEADER
 			**************************************-->
-		<?php include('../includes/menu-principal.html');?>
+		<?php include('../includes/menu-principal.php');?>
 		<div class="container-fluid">
 	      	<img class="img-fluid mb-3 d-block mx-auto" src="../img/FAQ/duvidas.jpg" alt="FAQ">
           </div>
