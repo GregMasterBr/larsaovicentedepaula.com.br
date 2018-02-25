@@ -25,6 +25,9 @@
             <li class="nav-item">
               <a class="nav-link" href="parceiros">Parceiros</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Contato">Contato</a>
+            </li>
           </ul>
         </div>
       </nav>
@@ -36,7 +39,7 @@
 ?>
     <header>
       <nav class=" navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#"><abbr title="Lar São Vicente de Paulo">LSVP</abbr></a>
+        <a class="navbar-brand" href="../"><abbr title="Lar São Vicente de Paulo">LSVP</abbr></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -56,6 +59,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="../parceiros">Parceiros</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../Contato">Contato</a>
             </li>
           </ul>
         </div>
