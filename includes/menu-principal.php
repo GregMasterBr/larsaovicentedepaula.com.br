@@ -26,7 +26,10 @@
               <a class="nav-link" href="parceiros">Parceiros</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Contato">Contato</a>
+              <a class="nav-link" href="leis">Leis</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contato">Contato</a>
             </li>
           </ul>
         </div>
@@ -61,7 +64,10 @@
               <a class="nav-link" href="../parceiros">Parceiros</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../Contato">Contato</a>
+              <a class="nav-link" href="../leis">Leis</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../contato">Contato</a>
             </li>
           </ul>
         </div>
