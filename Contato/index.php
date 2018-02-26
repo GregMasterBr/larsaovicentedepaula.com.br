@@ -79,13 +79,13 @@
 				    <div class="card-header" id="headingTwo">
 				      <h5 class="mb-0">
 				        <button class="btn text-white btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-				          Como faço para ser um voluntário?
+				          Como faço para ser um voluntário no Lar São Vicente de Paulo?
 				        </button>
 				      </h5>
 				    </div>
 				    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 				      <div class="card-body">
-				        Você pode conferir na página <a href="../voluntario">Voluntários</a>.
+				        Há várias formas de ser um voluntário, temos uma página dedicada somente a isso, você pode conferir <a href="../voluntario">clicando aqui</a>.
 				      </div>
 				    </div>
 				  </div>
@@ -113,7 +113,7 @@
 				    </div>
 				    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 				      <div class="card-body">
-				        Primeiro, você deve verificar se atende aos critérios dispostos na página <a href="../acolhimento">Acolhimento</a>, depois poderá entrar em contato conosco.
+				        Para um idoso ser acolhido pelo nosso Lar, você deve se atentar a alguns critérios dispostos na página <a href="../acolhimento">Acolhimento</a>.
 				      </div>
 				    </div>
 				  </div>
@@ -121,7 +121,7 @@
 				    <div class="card-header" id="headingFive">
 				      <h5 class="mb-0">
 				        <button class="btn text-white btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-				          Como posso contribuir com o Lar?
+				          Como posso contribuir financeiramente com o Lar?
 				        </button>
 				      </h5>
 				    </div>
@@ -141,7 +141,7 @@
 				    </div>
 				    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
 				      <div class="card-body">
-				        Na página <a href="../quem-somos">Quem Somos</a> você conhecerá um pouco dos nossos valores e a estrutura oferecida aos nossos queridos velhinhos.
+				        Temos uma estrutura e equipe totalmente dedicada às necessidades de nossos idosos. Na página <a href="../quem-somos">Quem Somos</a> você conhecerá um pouco dos nossos valores e a estrutura oferecida aos nossos queridos velhinhos.
 				      </div>
 				    </div>
 				  </div>
@@ -149,13 +149,13 @@
 				    <div class="card-header" id="headingSeven">
 				      <h5 class="mb-0">
 				        <button class="btn text-white btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-				          Pergunta
+				          Qual idade mínima para acolhimento?
 				        </button>
 				      </h5>
 				    </div>
 				    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
 				      <div class="card-body">
-				        Resposta
+				        Esteja com idade acima de 60 anos (para ambos os sexos). Para outros critérios, visite a página <a href="../acolhimento">Acolhimento</a>.
 				      </div>
 				    </div>
 				  </div>
@@ -163,13 +163,13 @@
 				    <div class="card-header" id="headingEight">
 				      <h5 class="mb-0">
 				        <button class="btn text-white btn-link collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-				          Pergunta
+				          Em quais condições o idoso poderá ser acolhido pelo Lar?
 				        </button>
 				      </h5>
 				    </div>
 				    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
 				      <div class="card-body">
-				        Resposta
+				        Esteja em estado de carência e abandono, não esteja classificado no grau de dependência III, ou seja, que requeira assistência em todas as atividades de autocuidado para a vida diária e/ou com comprometimento cognitivo. Para outros critérios, visite a página <a href="../acolhimento">Acolhimento</a>.
 				      </div>
 				    </div>
 				  </div>
@@ -177,13 +177,13 @@
 				    <div class="card-header" id="headingNine">
 				      <h5 class="mb-0">
 				        <button class="btn text-white btn-link collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-				          Pergunta
+				          Para ser acolhido pelo Lar é necessário algum atestado médico?
 				        </button>
 				      </h5>
 				    </div>
 				    <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
 				      <div class="card-body">
-				        Resposta
+				        Sim, precisa de atestado de sanidade mental e psicológica, atestado de saúde física que afirme a inexistência de doença contagiosa.
 				      </div>
 				    </div>
 				  </div>
@@ -191,13 +191,13 @@
 				    <div class="card-header" id="headingTen">
 				      <h5 class="mb-0">
 				        <button class="btn text-white btn-link collapsed" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-				          Pergunta
+				          Posso receber informações sobre o estado clínico do idoso?
 				        </button>
 				      </h5>
 				    </div>
 				    <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
 				      <div class="card-body">
-				        Resposta
+				        Estão autorizados a receber informações apenas os responsáveis previstos em contrato e aqueles que tiverem autorização expressa/prevista em contrato.
 				      </div>
 				    </div>
 				  </div>
