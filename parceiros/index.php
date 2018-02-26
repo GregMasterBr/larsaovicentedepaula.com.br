@@ -29,7 +29,7 @@
           <p class="lead text-muted">Com carinho e dedicação essas empresas tem nos auxiliado, a todo momento, garantir um trabalho contínuo para os nossos vovôs e vovós</p>
           <p>
             <a href="https://goo.gl/forms/UwxDAzN1GQ8FVwVB3" target="_blank" class="btn btn-primary my-2">Seja um Parceiro</a>
-            <a href="#" class="btn btn-secondary my-2">Doe seu tempo</a>
+            <a href="../voluntario" class="btn btn-secondary my-2">Doe seu tempo</a>
           </p>
         </div>
       </section>
