@@ -19,7 +19,9 @@
               <a class="nav-link" href="../voluntario">Voluntário</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../doacoes">Doações</a>
+              <!-- <a class="nav-link" href="../doacoes">Doações</a> -->
+              <a class="nav-link" href="https://pag.ae/blvMv1H" target="_blank">Doações</a>
+              
             </li>
             <li class="nav-item">
               <a class="nav-link" href="../eventos">Eventos</a>
