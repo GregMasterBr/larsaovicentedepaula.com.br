@@ -13,30 +13,10 @@
 	</head>
 
   <body>
-    <header>
-      <nav class=" navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#"><abbr title="Lar São Vicente de Paulo">LSVP</abbr></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Início <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="quem-somos">Quem Somos</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="voluntario">Voluntário</a>
-            </li>            
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Doações</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </header>
+    <!-- FOOTER -->
+    <?php 
+       include('includes/menu-principal.php');
+    ?>
 
     <main role="main">
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -251,10 +231,9 @@
       </div>
 
     <!-- FOOTER -->
-    <footer class="container">
-      <p class="float-right"><a href="#">Voltar para o topo</a></p>
-      <p>© 2018 <abbr title="Alligator">ALGT</abbr> Jr. - DEVORANDO A CONCORRÊNCIA. </p>
-    </footer>
+    <?php 
+       include('includes/footer.html');
+    ?>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

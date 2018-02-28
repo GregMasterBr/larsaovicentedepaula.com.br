@@ -7,7 +7,7 @@
 		<meta name="description" content="Informações sobre as regras de acolhimento do Lar São Vicente de Paula" />
     	<meta name="author" content="Anne, Gregório, Luan, Tamires" />
     	<meta name="keywords" content="Velhinhos, Lar São Vicente de Paula, Social, Idosos, Sorocaba, Maior idade, voluntários, Doações, Parceiros" />
-		<link rel="icon" type="image/png" href="favicon.png" />
+		<link rel="icon" type="image/png" href="../favicon.png" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 		<link rel="stylesheet" type="text/css" href="../css/estilo.css" />
 		<link rel="stylesheet" type="text/css" href="../css/acolhimento.css" />
