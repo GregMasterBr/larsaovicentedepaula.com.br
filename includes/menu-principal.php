@@ -17,10 +17,16 @@
               <a class="nav-link" href="quem-somos">Quem Somos</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="acolhimento">Acolhimento</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="voluntario">Voluntário</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#">Doações</a>
+              <a class="nav-link" href="#">Doações</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="eventos">Eventos</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="parceiros">Parceiros</a>
@@ -55,10 +61,16 @@
               <a class="nav-link" href="../quem-somos">Quem Somos</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="../acolhimento">Acolhimento</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="../voluntario">Voluntário</a>
             </li>            
             <li class="nav-item">
-              <a class="nav-link disabled" href="#">Doações</a>
+              <a class="nav-link" href="#">Doações</a>
+            </li>          
+            <li class="nav-item">
+              <a class="nav-link" href="../eventos">Eventos</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="../parceiros">Parceiros</a>
