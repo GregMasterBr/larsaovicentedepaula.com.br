@@ -23,7 +23,7 @@
               <a class="nav-link" href="voluntario">Voluntário</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Doações</a>
+              <a class="nav-link" href="doacao">Doações</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="eventos">Eventos</a>
@@ -67,7 +67,7 @@
               <a class="nav-link" href="../voluntario">Voluntário</a>
             </li>            
             <li class="nav-item">
-              <a class="nav-link" href="#">Doações</a>
+              <a class="nav-link" href="../doacao">Doações</a>
             </li>          
             <li class="nav-item">
               <a class="nav-link" href="../eventos">Eventos</a>
