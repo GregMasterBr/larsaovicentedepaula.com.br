@@ -17,7 +17,7 @@
 		<!--**************************************
 			HEADER
 			**************************************-->
-		<?php include('../includes/menu-principal.html');?>
+		<?php include('../includes/menu-principal.php');?>
 		<div class="container-fluid text-center pb-5">
 	      	<img class="img-fluid mb-3 d-block mx-auto" src="../img/voluntario/voluntario.png" alt="">
         	<h1 class="text-uppercase text-white mb-0">Seja um voluntário</h1>
@@ -243,12 +243,5 @@
 			FOOTER
 			**************************************-->
     	<?php include('../includes/footer.html');?>
-
-	    <!--**************************************
-			JAVASCRIPT CAROUSEL
-			**************************************-->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	</body>
 </html>

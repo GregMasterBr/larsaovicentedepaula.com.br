@@ -60,16 +60,16 @@ FOOTER
 	  color: white;
 	}
 	.mainfooter .fa-facebook-square:hover{
-	  transition:all 0.5s ease-in-out;
+	  transition:all 0.8s ease-in-out;
 	  transform:rotate(360deg);
 	}
-	.mainfooter .fa-map-marker{
+	.fa-map-marker{
 	  color: red;
 	}
-	.mainfooter .fa-phone{
+	.fa-phone{
 	  color: lime;
 	}
-	.mainfooter .fa-envelope{
+	.fa-envelope{
 	  color: silver;
 	}
 	.fas, .far{
@@ -131,4 +131,32 @@ FOOTER
 }
 .visao-missao-valores{
 	padding: 0% 3%;
+}
+
+/*Contato*/
+.contato .container-fluid.img{
+	background-color: rgb(62,185,255);
+}
+.contato .endereco .container .row{
+	border-bottom: solid 3px silver;
+	border-top: solid 3px silver;
+}
+.contato .FAQ{
+	margin-top: 5px;
+	background-color: rgb(62,185,255);
+}
+.contato .FAQ .card{
+	border-color: rgb(62,185,255);
+}
+.contato .FAQ .card-header{
+	background-color: #2d88bc;
+}
+.contato .formulario-contato{
+	background-color: #efefef;
+}
+.endereco .container address, .endereco .container h6{
+	margin-top: 1rem;
+}
+.contato .card .btn {
+	white-space: unset;
 }
