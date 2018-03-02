@@ -72,3 +72,9 @@ footer p {
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
+.text-center{
+  background:blue url('../img/leis/maos.jpg'); 
+  background-repeat: no-repeat; 
+  background-size:cover;
+}

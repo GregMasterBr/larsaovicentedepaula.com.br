@@ -24,7 +24,7 @@
      
     <main role="main">
 
-      <section class="jumbotron text-center" style="background:blue url('../img/leis/maos.jpg'); background-repeat: no-repeat; background-size:cover;">
+      <section class="jumbotron text-center">
         <div class="container">
           <h1 class="jumbotron-heading">Proteção a quem precisa</h1>
           <p class="lead text-muted">Área em construção!</p>
