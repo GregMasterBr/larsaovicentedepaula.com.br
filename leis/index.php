@@ -26,11 +26,11 @@
 
       <section class="jumbotron text-center">
         <div class="container">
-          <h1 class="jumbotron-heading">o!</h1>
-          <p class="lead text-muted">Com carinho e dedicação essas empresas tem nos auxiliado, a todo momento, garantir um trabalho contínuo para os nossos vovôs e vovós</p>
+          <h1 class="jumbotron-heading">Proteção a quem precisa</h1>
+          <p class="lead text-muted">Área em construção!</p>
           <p>
-            <a href="https://goo.gl/forms/UwxDAzN1GQ8FVwVB3" target="_blank" class="btn btn-primary my-2">Seja um Parceiro</a>
-            <a href="#" class="btn btn-secondary my-2">Doe seu tempo</a>
+            <a href="../contato"  class="btn btn-primary my-2">Deixe-nos uma mensagem</a>
+            <a href="../voluntario" class="btn btn-secondary my-2">Doe seu tempo</a>
           </p>
         </div>
       </section>
