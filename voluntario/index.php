@@ -219,7 +219,7 @@
 		              <br>
 		              <div id="success"></div>
 		              <div class="form-group">
-		                <button type="submit" class="btn btn-secondary btn-xl" id="sendMessageButton">Enviar</button>
+		                <button type="submit" class="btn btn-secondary btn-xl btn-block" id="sendMessageButton">Enviar</button>
 		              </div>
 		            </form>
 		          </div>
