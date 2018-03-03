@@ -1,6 +1,6 @@
 /*
   Nome: CSS PÁGINA VOLUNTÁRIOS
-  Data: 09/02/2017
+  Data: 09/02/2018
   Descrição:  Versão inicial. 
   Versão: 0.1
   Autor: Anne, Gregorio, Luan e Tamires
@@ -236,29 +236,6 @@ Copyright timeline
   text-align: right;
   font-size: 10px;
   -webkit-margin-after: 0;
-}
-/*--------------------------------
-Link fim da página - Estatuto idoso
-----------------------------------*/
-.container-fluid .badge{
-  color: silver;
-  width: 80px;
-  height: 80px;
-  background-color: red;
-  border-radius: 50%;
-  vertical-align: middle;
-}
-.container-fluid .badge img{
-  width: 70%;
-  margin-top: 17.5%;
-  margin-left: 6%;
-}
-.container-fluid a{
-  text-decoration: none;
-  color: black;
-}
-.container-fluid a:hover{
-  color: gray;
 }
 
 /*----------------------------------------------------------

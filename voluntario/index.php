@@ -136,7 +136,7 @@
 		<!--**************************************
 			DEPOIMENTOS
 			**************************************-->
-	    <section id="contact">
+	    <section id="contact" class="bg-light">
 	        <div class="container">
 				<div class="row">
 					<div class="col-md-8 col-center m-auto">
@@ -181,64 +181,13 @@
 		</section>
 		
 		<!--**************************************
-			FORMULÁRIO CONTATO
+			FORMULÁRIO Voluntariado
 			**************************************-->
-	    <section id="contact" class="bg-dark pb-2">
+	    <section class="bg-light text-center pt-2 pb-5">
 	    	<div class="container">
-		        <h2 class="text-center text-uppercase text-white mb-0 py-4">Entre em Contato</h2>
-		        <div class="row">
-		          <div class="col-lg-8 mx-auto text-white">
-		            <form name="sentMessage" id="contactForm" novalidate="novalidate">
-		              <div class="control-group">
-		                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-		                  <label>Nome</label>
-		                  <input class="form-control" id="name" type="text" placeholder="Nome" required="required" data-validation-required-message="Please enter your name.">
-		                  <p class="help-block text-danger"></p>
-		                </div>
-		              </div>
-		              <div class="control-group">
-		                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-		                  <label>Email</label>
-		                  <input class="form-control" id="email" type="email" placeholder="Email" required="required" data-validation-required-message="Please enter your email address.">
-		                  <p class="help-block text-danger"></p>
-		                </div>
-		              </div>
-		              <div class="control-group">
-		                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-		                  <label>Telefone</label>
-		                  <input class="form-control" id="phone" type="tel" placeholder="Telefone" required="required" data-validation-required-message="Please enter your phone number.">
-		                  <p class="help-block text-danger"></p>
-		                </div>
-		              </div>
-		              <div class="control-group">
-		                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-		                  <label>Mensagem</label>
-		                  <textarea class="form-control" id="message" rows="5" placeholder="Mensagem" required="required" data-validation-required-message="Please enter a message."></textarea>
-		                  <p class="help-block text-danger"></p>
-		                </div>
-		              </div>
-		              <br>
-		              <div id="success"></div>
-		              <div class="form-group">
-		                <button type="submit" class="btn btn-secondary btn-xl btn-block" id="sendMessageButton">Enviar</button>
-		              </div>
-		            </form>
-		          </div>
-		        </div>
+	    		<a class="btn btn-success btn-lg" href="#" target="_blank">QUERO SER UM VOLUNTÁRIO</a>
 		    </div>
     	</section>
-
-		<!--**************************************
-			LINK ESTATUTO IDOSO
-			**************************************-->
-    	<div class="container-fluid">
-    		<p class="text-center text-uppercase py-4 mb-0">
-    			<a href="http://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm" target="_blank">
-    				<span class="badge"><img src="../icons/leis.png" alt="Estatuto do Idoso"></span>
-    				Clique aqui para conhecer as leis que regem o Estatuto do Idoso
-    		</a>
-    		</p>
-    	</div>
 
 		<!--**************************************
 			FOOTER
