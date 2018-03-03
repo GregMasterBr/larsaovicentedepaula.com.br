@@ -18,9 +18,7 @@
     include('../includes/menu-principal.php');
     ?>
  
- <!--Album-->
-<header>
-     
+
     <main role="main">
 
       <section class="jumbotron text-center">

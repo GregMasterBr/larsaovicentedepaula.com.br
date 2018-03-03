@@ -18,10 +18,6 @@
         include('../includes/menu-principal.php');
     ?>
      
- 
- <!--Album-->
-<header>
-     
     <main role="main">
 
       <section class="jumbotron text-center">
@@ -64,16 +60,10 @@
             <p><a class="btn btn-secondary" href="http://www.observatorionacionaldoidoso.fiocruz.br/biblioteca/_livros/18.pdf" target="blank" role="button">Veja o Documentos &raquo;</a></p>
           </div>
         </div>
-                 
-         
+      </div>
 
     </main>
-
     <!-- FOOTER -->
-    <?php
-        include('../includes/footer.html');
-    ?>
+    <?php include('../includes/footer.html');  ?>
   </body>
-
-
 </html>
