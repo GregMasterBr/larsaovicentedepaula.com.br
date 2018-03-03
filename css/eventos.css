@@ -54,3 +54,23 @@ footer p {
 	display: block;
 	margin: 0 auto;
 }
+
+/*Calendario para ser exibido nos dispositivos móveis*/
+
+.agenda-cel{
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .agenda-desk{
+  display: none;
+  }
+  .agenda-cel{
+  display: block;
+  }
+  .agenda-cel iframe{
+    min-width: 480px;
+    min-height: 250px;
+  }
+
+}
