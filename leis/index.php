@@ -20,7 +20,7 @@
      
  
  <!--Album-->
-<header>
+
      
     <main role="main">
 
@@ -64,7 +64,7 @@
             <p><a class="btn btn-secondary" href="http://www.observatorionacionaldoidoso.fiocruz.br/biblioteca/_livros/18.pdf" target="blank" role="button">Veja o Documentos &raquo;</a></p>
           </div>
         </div>
-                 
+        </div>         
          
 
     </main>

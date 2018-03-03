@@ -74,3 +74,10 @@ footer p {
   }
 
 }
+
+.text-center{
+  background:blue url('../img/eventos/Group-people.jpg'); 
+  background-repeat: no-repeat; 
+  background-size:cover;
+  background-position: 40% 40%;
+}

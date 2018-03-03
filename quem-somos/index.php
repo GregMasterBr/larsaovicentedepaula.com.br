@@ -20,7 +20,7 @@
    
     <main role="main">
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron">
+      <div class="jumbotron text-center">
         <div class="container">
           <h1 class="display-3">QUEM SOMOS</h1>
           <p class="paragrafo_quem_somos">O Lar São Vicente de Paulo é uma instituição bastante antiga, datada de 14 de junho de 1896, fundada por uma equipe de vários médicos, como Antônio Guilherme da Silva, Luiz das Costa Coimbra, Pedro de Paula Bauer, Amâncio Padilha de Oliveira, João Vieira de Campos, entre outros voluntários.<br>
