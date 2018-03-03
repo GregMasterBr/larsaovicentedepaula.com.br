@@ -77,5 +77,5 @@ footer p {
   background:blue url('../img/leis/leis.jpg'); 
   background-repeat: no-repeat; 
   background-size:cover;
-  
+  background-position: 50% 50%;
 }
