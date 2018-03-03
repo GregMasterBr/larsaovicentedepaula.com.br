@@ -12,6 +12,7 @@
 		<link rel="stylesheet" type="text/css" href="../css/estilo.css" />
 		<link rel="stylesheet" type="text/css" href="../css/acolhimento.css" />
 		<link href="https://fonts.googleapis.com/css?family=Fjalla+One|Krona+One" rel="stylesheet"> 
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 	</head>
 
   	<body>

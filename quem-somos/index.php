@@ -12,6 +12,7 @@
     <link rel="stylesheet" type="text/css" href="../css/estilo.css" />
     <link rel="stylesheet" type="text/css" href="../css/voluntario.css" />
 		<link rel="stylesheet" type="text/css" href="../css/quem-somos.css" /> 
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">    
 	</head>
 
   <body>
