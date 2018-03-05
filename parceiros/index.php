@@ -18,12 +18,9 @@
     <?php
     include('../includes/menu-principal.php');
     ?>
- 
-
     <main role="main">
-
-      <section class="jumbotron text-center">
-        <div class="container">
+      <div class="jumbotron text-center mb-0">
+        <div class="container container1">
           <h1 class="jumbotron-heading">Parceiros para todo momento!</h1>
           <p class="lead text-muted">Com carinho e dedicação essas empresas tem nos auxiliado, a todo momento, garantir um trabalho contínuo para os nossos vovôs e vovós</p>
           <p>
@@ -31,8 +28,7 @@
             <a href="../voluntario" class="btn btn-secondary my-2">Doe seu tempo</a>
           </p>
         </div>
-      </section>
-
+      </div>
       <div class="album py-5 bg-light">
         <div class="container">
 

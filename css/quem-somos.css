@@ -2,18 +2,7 @@
 	text-align: justify;
 	line-height: 40px;
 	margin-top: 2%;
-}
-.estrutura{
-	margin-bottom: 2%;
-}
-.h2_quem_somos{
-	text-align: center;
-}
-.circulo{
-	margin: 10% 25%;
-}
-.visao-missao-valores{
-	padding: 0% 3%;
+	
 }
 
 .carousel.slide .carousel-inner .carousel-item img, .masthead .container-fluid {
@@ -38,32 +27,22 @@
 }
 
 .text-center{
-  /*background:blue url('../img/quem-somos/fundo-quem-somos3.png'); 
+  background:blue url('../img/quem-somos/fundo.png'); 
   background-repeat: no-repeat; 
   background-size:cover;
-  background-position: 10% 0%;*/
-  background-color: rgb(255, 214, 214);
-}
+  background-position: 20% 20%;
+  padding-top: 2%;
+  height: 30em;
+  color: #fff;
+ }
 
-.container1{
-	background-color: rgba(255,214,214,0.5); 
+ .visao-missao-valores{
+ 	text-align: center;
+ }
 
-}
+ .icones-quem-somos{
+ 	/*background: #FFE23A;*/
+ 	padding: 5%;
+ }
 
-.paragrafo_quem_somos{
-	width: 70%;
-	height: 100%;
-	display: block;
 
-}
-
-.img-logo{
-	width: 30%;
-	height: 100%;
-	float: left;
-}
-
-.logo-quem-somos{
-	width: 100%;
-	height: 100%;
-}

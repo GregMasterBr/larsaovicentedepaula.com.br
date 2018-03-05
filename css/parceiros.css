@@ -67,3 +67,12 @@ footer p {
 .card-text-center {
 	text-align: center;
 }
+
+.text-center{
+  background:#fff url('../img/parceiros/parceiros.jpg'); 
+  width: 100%;
+  height: 30em;
+  background-repeat: no-repeat; 
+  background-size:cover;
+  background-position: 70% 70%;
+ }
