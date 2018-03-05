@@ -39,10 +39,6 @@
   max-width: 40rem;
 }
 
-footer p {
-  margin-bottom: .25rem;
-}
-
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 
 	/*Ajuste na imagem da tela de parceiro*/
@@ -63,10 +59,6 @@ footer p {
 	text-align: center;
 }
 
-.col-md-4 {
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
 
 .text-center{
   background:blue url('../img/leis/leis.jpg'); 

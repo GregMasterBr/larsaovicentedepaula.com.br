@@ -34,7 +34,7 @@
 
       <div class="container">
         <!-- Example row of columns -->
-        <div class="row">
+        <div class="row my-3" >
           <div class="col-md-4">
             <h2>Política Nacional do Idoso - Lei n°8.842/1994</h2>
             <p>A política nacional do idoso tem por objetivo assegurar os direitos sociais do idoso, criando condições para promover sua autonomia, integração e participação efetiva na sociedade.</p>
@@ -62,11 +62,8 @@
           </div>
         </div>
       </div>
-
-
-
     </main>
     <!-- FOOTER -->
-    <?php include('../includes/footer.html');  ?>
+    <?php include('../includes/footer.html');?>
   </body>
 </html>
