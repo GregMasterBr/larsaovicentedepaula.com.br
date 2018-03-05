@@ -60,7 +60,7 @@
   display: block;
   }
   .agenda-cel iframe{
-    min-width: 480px;
+    min-width: 100%;
     min-height: 250px;
   }
 
