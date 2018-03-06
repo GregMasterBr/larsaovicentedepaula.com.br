@@ -1,0 +1,36 @@
+/*
+  Nome: CSS PÁGINA CONTATO
+  Data: 03/03/2018
+  Descrição:  Versão inicial. 
+  Versão: 0.1
+  Autor: Anne, Gregorio, Luan e Tamires
+  Autor URI:  
+*/
+
+
+.contato .container-fluid.img{
+	background-color: rgb(62,185,255);
+}
+.contato .endereco .container .row{
+	border-bottom: solid 3px silver;
+	border-top: solid 3px silver;
+}
+.contato .FAQ{
+	margin-top: 5px;
+	background-color: rgb(62,185,255);
+}
+.contato .FAQ .card{
+	border-color: rgb(62,185,255);
+}
+.contato .FAQ .card-header{
+	background-color: #2d88bc;
+}
+.contato .formulario-contato{
+	background-color: #efefef;
+}
+.endereco .container address, .endereco .container h6{
+	margin-top: 1rem;
+}
+.contato .card .btn {
+	white-space: unset;
+}
