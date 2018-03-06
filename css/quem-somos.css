@@ -1,10 +1,20 @@
 .paragrafo_quem_somos{
+	font-size: 19px;
 	text-align: justify;
 	line-height: 40px;
 	margin-top: 2%;
 	
 }
-
+.paragrafo_quem_somos.topo, h1{
+	text-shadow: 1px 1px 5px #000;
+	
+}
+.display-4.estrutura{
+	font-weight: 500;
+}
+h2{
+	text-align: center;
+}
 .carousel.slide .carousel-inner .carousel-item img, .masthead .container-fluid {
 		height: 37em;
 		max-width: 100%;

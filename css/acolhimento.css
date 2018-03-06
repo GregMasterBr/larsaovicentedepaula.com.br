@@ -1,14 +1,12 @@
 .paragrafo1{ /*primeiro paragrafo, que está em verde escuro e letras brancas */
-	line-height: 3em;
-	font-family: 'Fjalla One', sans-serif;
+	line-height: 2em;
 	color: #ffffff !important;
-	font-size: 22px;	
+	font-size: 23.5px;	
 	padding: 2% 5%;
 	text-align: justify;
 	background-color: #00B229;
 }
 .h1-acolhimento{ /*cabeçalho onde está escrito REGRAS DE ACOLHIMENTO*/
-	height: 1.5em;
 	text-align: center;
 	color: #ffffff;
 	background-color: #00B229;
@@ -27,7 +25,6 @@
 .spam-acolhimento{ /*primeiro span da parte em vermelho, onde está escrito quais são as regras... está em vermelho escuro letra branca */
 	display: block;
 	text-align: center;
-	height: 3em;
 	text-align: center;
 	color: #ffffff;
 	background-color: #E21914;
@@ -46,8 +43,7 @@
 .lista-acolhimento .list-group-item{ /*todos os li*/
 	background-color: #E21914;
 	color: #fff;
-	font-family: 'Fjalla One', sans-serif;
-	font-size: 25px;
+	font-size: 23.5px;
 }
 .span2-acolhimento{ /*segundo span em fundo vermelho escuro acima do botão*/
 	color: #ffffff;
@@ -58,7 +54,6 @@
 	display: block;
 	text-align: center;
 	width: 100%;
-	height: 3.5em;
 }
 
 .btn-acolhimento{ /*paragrado do botao*/

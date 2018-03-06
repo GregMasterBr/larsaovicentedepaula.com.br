@@ -23,9 +23,9 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron text-center mb-0">
         <div class="container container1">
-          <h1 class="display-3">QUEM SOMOS</h1>
-          <p class="paragrafo_quem_somos">O Lar São Vicente de Paulo é uma instituição bastante antiga, datada de 14 de junho de 1896, fundada por uma equipe de vários médicos, como Antônio Guilherme da Silva, Luiz das Costa Coimbra, Pedro de Paula Bauer, Amâncio Padilha de Oliveira, João Vieira de Campos, entre outros voluntários.<br>
-          O presidente atual do Lar é Ivanildo de Souza, conta com ajuda de 81 funcionários e 400 voluntários para atender os 90 idosos que acolhemos na entidade, dando máxima atenção para os pacientes, oferecendo a todos o carinho e assistência médica necessária. Veja nossa estrutura, e também a equipe prestadora de serviços.</p>
+          <h1 class="display-4">QUEM SOMOS</h1>
+          <p class="paragrafo_quem_somos topo">O <b>Lar São Vicente de Paulo</b> é uma instituição bastante antiga, datada de 14 de junho de 1896, fundada por uma equipe de vários médicos, como <b>Antônio Guilherme da Silva, Luiz das Costa Coimbra, Pedro de Paula Bauer, Amâncio Padilha de Oliveira, João Vieira de Campos</b>, entre outros voluntários.<br>
+          O presidente atual do Lar é <b>Ivanildo de Souza</b>, conta com ajuda de <b>81 funcionários e 400 voluntários</b> para atender os <b>90 idosos</b> que acolhemos na entidade, dando máxima atenção para os pacientes, oferecendo a todos o carinho e assistência médica necessária. Veja nossa <b>estrutura</b>, e também a <b>equipe prestadora de serviços.</b></p>
         </div>
       </div>
     </main>
@@ -55,7 +55,7 @@
       </div><!-- /.container -->
       <div class="jumbotron mb-0">
         <div class="container">
-          <h1 class="display-3">ESTRUTURA</h1>
+          <h2 class="display-4 estrutura">ESTRUTURA</h1>
         </div>
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
