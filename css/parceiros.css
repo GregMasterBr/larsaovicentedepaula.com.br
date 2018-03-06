@@ -9,37 +9,41 @@
 	Autor URI:  
 */
 
-
-:root {
-  --jumbotron-padding-y: 3rem;
-}
-
-.jumbotron {
-  padding-top: var(--jumbotron-padding-y);
-  padding-bottom: var(--jumbotron-padding-y);
-  margin-bottom: 0;
-  background-color: #fff;
-}
-@media (min-width: 768px) {
-  .jumbotron {
-    padding-top: calc(var(--jumbotron-padding-y) * 2);
-    padding-bottom: calc(var(--jumbotron-padding-y) * 2);
+/*------------------------------------------------
+Header
+-------------------------------------------------*/
+  :root {
+    --jumbotron-padding-y: 3rem;
   }
-}
 
-.jumbotron p:last-child {
-  margin-bottom: 0;
-}
+  .jumbotron {
+    padding-top: var(--jumbotron-padding-y);
+  }
+  @media (min-width: 768px) {
+    .jumbotron {
+      padding-top: calc(var(--jumbotron-padding-y) * 2.5);
+    }
+  }
 
-.jumbotron-heading {
-  font-weight: 300;
-}
+  .jumbotron .container {
+    max-width: 60rem;
+  }
 
-.jumbotron .container {
-  max-width: 40rem;
-}
-
-.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+  .bg-img {
+    background: url('../img/parceiros/parceiros.jpg') 50% 50% no-repeat; 
+    background-size:cover;
+    width: 100%;
+    height: 30em;
+    display: table;
+  }
+  p .btn{
+    font-size: 1rem;
+    box-shadow: 1px 1px 5px #000;
+    font-weight: bold;
+  }
+ /*-------------------------
+  FIM HEADER
+ ---------------------------*/
 
 	/*Ajuste na imagem da tela de parceiro*/
 
@@ -58,12 +62,3 @@
 .card-text-center {
 	text-align: center;
 }
-
-.text-center{
-  background:#fff url('../img/parceiros/parceiros.jpg'); 
-  width: 100%;
-  height: 30em;
-  background-repeat: no-repeat; 
-  background-size:cover;
-  background-position: 70% 70%;
- }

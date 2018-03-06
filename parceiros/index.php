@@ -19,10 +19,10 @@
     include('../includes/menu-principal.php');
     ?>
     <main role="main">
-      <div class="jumbotron text-center mb-0">
-        <div class="container container1">
-          <h1 class="jumbotron-heading">Parceiros para todo momento!</h1>
-          <p class="lead text-muted">Com carinho e dedicação essas empresas tem nos auxiliado, a todo momento, garantir um trabalho contínuo para os nossos vovôs e vovós</p>
+      <div class="jumbotron mb-0 text-center text-white bg-img">
+        <div class="container">
+          <h1 class="jumbotron-heading text-uppercase mb-0 shadow">Parceiros para todo momento!</h1>
+          <p class="p-header mb-3 shadow">Com carinho e dedicação essas empresas tem nos auxiliado, a todo momento, garantir um trabalho contínuo para os nossos vovôs e vovós</p>
           <p>
             <a href="https://goo.gl/forms/UwxDAzN1GQ8FVwVB3" target="_blank" class="btn btn-primary my-2">Seja um Parceiro</a>
             <a href="../voluntario" class="btn btn-secondary my-2">Doe seu tempo</a>
@@ -356,6 +356,8 @@
     <?php 
        include('../includes/footer.html');
     ?>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   </body>
 
 

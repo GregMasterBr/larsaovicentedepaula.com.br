@@ -16,45 +16,45 @@
 	</head>
 
   	<body>
-  		<header class="business-header">
-  			<?php
+      <?php
   				include('../includes/menu-principal.php')
   			?>
-    	</header>
-    <!-- Page Content -->
-    <main role="main">
-      <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron main-acolhimento mb-0">
-      	<h1 class="display-4 py-3 h1-acolhimento mb-4">Regras de Acolhimento</h1>
-        <div class="container container-principal col-12">
-        	<figure class="fig-acolhimento col-4">
-        		<img class="img-acolhimento" src="../img/acolhimento/velinhos1.png" alt="desenho de um casal de idosos">
-        	</figure>
-          	<p class="paragrafo1 col-8">O Estatuto do Idoso, Lei n° 10.741, de 01/10/2003, prevê alguns critérios para o acolhimento em instituição de longa permanência, obedecidos fielmente pelo Lar, através de uma avaliação prévia pela equipe multidisciplinar, composta de assistente social, psicóloga, enfermeira, nutricionista e fisioterapeuta, em atendimento e visita domiciliar, para subsidiarem a gerência e a diretoria na decisão do acolhimento.</p>
+      <!-- Page Content -->
+      <main role="main">
+        <!-- Main jumbotron for a primary marketing message or call to action -->
+        <div class="jumbotron main-acolhimento text-white text-center mb-0">
+        	<h1 class="h1-acolhimento mb-4 py-3">Regras de Acolhimento</h1>
+          <div class="container container-principal col-12">
+          	<figure class="fig-acolhimento col-4">
+          		<img class="img-acolhimento" src="../img/acolhimento/velinhos1.png" alt="desenho de um casal de idosos">
+          	</figure>
+            	<p class="paragrafo1 col-8">O Estatuto do Idoso, Lei n° 10.741, de 01/10/2003, prevê alguns critérios para o acolhimento em instituição de longa permanência, obedecidos fielmente pelo Lar, através de uma avaliação prévia pela equipe multidisciplinar, composta de assistente social, psicóloga, enfermeira, nutricionista e fisioterapeuta, em atendimento e visita domiciliar, para subsidiarem a gerência e a diretoria na decisão do acolhimento.</p>
+          </div>
         </div>
+      </main>
+      <div class=" jumbotron lista-acolhimento mb-0">
+        <div class="container">
+    			<div class="row">
+     				<div class="classe col-sm-12">
+        				<span class="display-3 spam-acolhimento py-3">Quais são as regras de acolhimento no para o Lar São Vicente de Paulo?</span>
+        				<ul class="list-group my-4">
+      						<li class="list-group-item">Esteja com idade acima de 60 anos (para ambos os sexos);</li>
+      						<li class="list-group-item">Esteja em estado de carência e abandono;</li>
+      						<li class="list-group-item">Possua atestado de sanidade mental e psicológica;</li>
+      						<li class="list-group-item">Possua atestado de saúde física que afirme a inexistência de doença contagiosa;</li>
+      						<li class="list-group-item">Não esteja classificado no grau de dependência III, ou seja, que requeira assistência em todas as atividades de autocuidado para a vida diária e/ou com comprometimento cognitivo;		</li>
+      						<li class="list-group-item">Esteja ciente e de acordo com o acolhimento.</li>
+      					</ul>
+      					<span class="display-3 span2-acolhimento py-3 mb-4">Se no seu caso você preenche as condições, pedimos por favor que preencha o questionário abaixo para que nossos colaboradores possam entram em contato</span>
+        	 		 	<p class="btn-acolhimento mb-4"><a class="btn btn-danger btn-lg" href="https://goo.gl/forms/UyQN84WI9L1d9kcq1">Responder Questionário &raquo;</a></p>
+     				</div>
+    			</div><!-- /.row -->
+        </div>  <!-- /.container -->
       </div>	
-	</main>
-	<div class=" jumbotron lista-acolhimento mb-0">
-		<div class="container">
-  			<div class="row">
-   				<div class="classe col-sm-12">
-      				<span class="display-3 spam-acolhimento py-3">Quais são as regras de acolhimento no para o Lar São Vicente de Paulo?</span>
-      				<ul class="list-group mb-4">
-  						<li class="list-group-item">Esteja com idade acima de 60 anos (para ambos os sexos);</li>
-  						<li class="list-group-item">Esteja em estado de carência e abandono;</li>
-  						<li class="list-group-item">Possua atestado de sanidade mental e psicológica;</li>
-  						<li class="list-group-item">Possua atestado de saúde física que afirme a inexistência de doença contagiosa;</li>
-  						<li class="list-group-item">Não esteja classificado no grau de dependência III, ou seja, que requeira assistência em todas as atividades de autocuidado para a vida diária e/ou com comprometimento cognitivo;		</li>
-  						<li class="list-group-item">Esteja ciente e de acordo com o acolhimento.</li>
-					</ul>
-					<span class="display-3 span2-acolhimento py-3">Se no seu caso você preenche as condições, pedimos por favor que preencha o questionário abaixo para que nossos colaboradores possam entram em contato</span>
-      	 		 	<p class="btn-acolhimento mb-4"><a class="btn btn-danger btn-lg" href="https://goo.gl/forms/UyQN84WI9L1d9kcq1">Responder Questionário &raquo;</a></p>
-   				 </div>
-  			</div><!-- /.row -->
-		</div>  <!-- /.container -->
-	</div>	
   		<?php
   			include('../includes/footer.html');
   		?>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	</body>
 </html>

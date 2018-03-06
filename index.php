@@ -82,10 +82,10 @@
       <div class="text-center"><img src="img/seja-um-voluntario2.jpg" alt="Patrocinadores Master" /></div>
   </div>    
 
-	<div class="position-relative overflow-hidden p-3 p-md-5  text-center bg-light img-destaque">
+	<div class="position-relative overflow-hidden p-3 p-md-5 text-white text-center bg-light img-destaque">
       <div class="col-md-5 p-lg-5 mx-auto my-5">
-        <h1 class="display-4 font-weight-normal">Avós de Coração</h1>
-        <p class="lead font-weight-normal">A história desta família não se trata de sobrenome. </p><p><b>É sobre AMOR</b>.</p>
+        <h1 class="display-4 font-weight-normal shadow">Avós de Coração</h1>
+        <p class="p-header shadow">A história desta família não se trata de sobrenome. </p><p><b>É sobre AMOR</b>.</p>
         <a class="btn btn-outline-secondary" href="#">PARA AJUDAR BASTA OUVIR</a>
       </div>
       <div class="product-device box-shadow d-none d-md-block"></div>

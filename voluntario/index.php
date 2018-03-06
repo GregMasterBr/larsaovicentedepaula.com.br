@@ -19,12 +19,15 @@
 			HEADER
 			**************************************-->
 		<?php include('../includes/menu-principal.php');?>
-		<div class="container-fluid text-center pb-5">
-	      	<img class="img-fluid mb-3 d-block mx-auto" src="../img/voluntario/voluntario.png" alt="">
-        	<h1 class="text-uppercase text-white mb-0">Seja um voluntário</h1>
-        	<hr class="star-light">
-        	<h2 class="font-weight-light text-white pr-3 pl-3 mb-0">Você pode ajudar participando das atividades do Lar, nos nossos Eventos Beneficentes, Bazares ou como Voluntário Ouvinte.</h2>
-          </div>
+		<section class="jumbotron mb-0 text-center text-white bg-img">
+	        <div class="container">
+	          <h1 class="jumbotron-heading text-uppercase mb-0 shadow">Seja um voluntário</h1>
+	          <p class="p-header mb-3 shadow">Você pode ajudar participando das atividades do <b> Lar</b>, nos nossos <b>Eventos Beneficentes, Bazares</b> ou como <b>Voluntário Ouvinte</b>.</p>
+	          <p>
+	            <a class="btn btn-success btn-lg" href="#" target="_blank">QUERO SER UM VOLUNTÁRIO</a>
+	          </p>
+	        </div>
+	    </section>
 
 		<!--**************************************
 			TIMELINE
@@ -179,19 +182,12 @@
 				</div>
 			</div>
 		</section>
-		
-		<!--**************************************
-			FORMULÁRIO Voluntariado
-			**************************************-->
-	    <section class="bg-light text-center pt-2 pb-5">
-	    	<div class="container">
-	    		<a class="btn btn-success btn-lg" href="#" target="_blank">QUERO SER UM VOLUNTÁRIO</a>
-		    </div>
-    	</section>
 
 		<!--**************************************
 			FOOTER
 			**************************************-->
     	<?php include('../includes/footer.html');?>
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	</body>
 </html>

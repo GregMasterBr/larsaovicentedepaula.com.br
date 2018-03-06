@@ -8,14 +8,29 @@
 	Autor: Anne, Gregorio, Luan e Tamires
 	Autor URI:  
 */
+
+/*-----------------------
+	PADRÃO FONTES
+------------------------*/
 	@font-face {
 	    font-family: Goblin One;
 	    src: url(../fonts/GoblinOne.ttf);
 	}
 	h1{
 		font-family: 'Goblin One', cursive;
-	text-shadow: 1px 1px 5px #000;
+		font-size: 1.8rem;
 	}
+	.p-header{		
+		font-size: 1.25rem;
+		line-height: 40px;
+	}
+	.shadow{
+		text-shadow: 1px 2px 5px #000;		
+	}
+
+/*--------------------------
+	SLIDE PRINCIPAL
+---------------------------*/
 	header{
 		margin-top: 56px;
 	}
@@ -31,7 +46,7 @@
 		margin: 50px 0;
 	}
 	.img-destaque{
-		background: url("../img/imagem-sobre-amor.jpg");
+		background: url("../img/imagem-sobre-amor.jpg") 70% 70% no-repeat;
 		background-size: cover;		
 	}
 	.servicos, .servicos .row.text-center{
@@ -102,6 +117,9 @@ FOOTER
 	.carousel.slide .carousel-inner .carousel-item img, .container-fluid .img-fluid{
 		height: 400px;
 	}
+	h1{
+		font-size: 2.5rem;
+	}
 }
 
 /*Large devices (desktops, 992px and up)*/
@@ -109,7 +127,7 @@ FOOTER
 	.carousel.slide .carousel-inner .carousel-item img, .container-fluid .img-fluid{
 		height: 500px;
 	}
-	.carousel-item.active .container{
+	.carousel-item .container{
 		display: block;
 	}
 }

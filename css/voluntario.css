@@ -10,8 +10,34 @@
 /*------------------------------------------------
 Header
 -------------------------------------------------*/
-  header, .container-fluid.text-center.pb-5{
-    background-color: springgreen;
+  :root {
+    --jumbotron-padding-y: 4rem;
+  }
+
+  .jumbotron {
+    padding-top: var(--jumbotron-padding-y);
+  }
+  @media (min-width: 768px) {
+    .jumbotron {
+      padding-top: calc(var(--jumbotron-padding-y) * 2.5);
+    }
+  }
+
+  .jumbotron .container {
+    max-width: 60rem;
+  }
+
+  .bg-img {
+    background: url('../img/voluntario/voluntario.jpg') 50% 50% no-repeat; 
+    background-size:cover;
+    width: 100%;
+    height: 30em;
+    display: table;
+  }
+  .btn-lg{
+    font-size: 1rem;
+    box-shadow: 1px 1px 5px #000;
+    font-weight: bold;
   }
 /*-------------------------------------------------
 Slide Depoimento Voluntário

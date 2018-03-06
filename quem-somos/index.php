@@ -10,7 +10,6 @@
     <link rel="icon" type="image/png" href="../favicon.png" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="../css/estilo.css" />
-    <link rel="stylesheet" type="text/css" href="../css/voluntario.css" />
 		<link rel="stylesheet" type="text/css" href="../css/quem-somos.css" /> 
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">    
 	</head>
@@ -21,10 +20,10 @@
    
     <main role="main">
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron text-center mb-0">
-        <div class="container container1">
-          <h1 class="display-4">QUEM SOMOS</h1>
-          <p class="paragrafo_quem_somos topo">O <b>Lar São Vicente de Paulo</b> é uma instituição bastante antiga, datada de 14 de junho de 1896, fundada por uma equipe de vários médicos, como <b>Antônio Guilherme da Silva, Luiz das Costa Coimbra, Pedro de Paula Bauer, Amâncio Padilha de Oliveira, João Vieira de Campos</b>, entre outros voluntários.<br>
+      <div class="jumbotron mb-0 text-center text-white bg-img shadow">
+        <div class="container">
+          <h1 class="jumbotron-heading text-uppercase mb-0">QUEM SOMOS</h1>
+          <p class="p-header mb-3">O <b>Lar São Vicente de Paulo</b> é uma instituição bastante antiga, datada de 14 de junho de 1896, fundada por uma equipe de vários médicos, como <b>Antônio Guilherme da Silva, Luiz das Costa Coimbra, Pedro de Paula Bauer, Amâncio Padilha de Oliveira, João Vieira de Campos</b>, entre outros voluntários.<br>
           O presidente atual do Lar é <b>Ivanildo de Souza</b>, conta com ajuda de <b>81 funcionários e 400 voluntários</b> para atender os <b>90 idosos</b> que acolhemos na entidade, dando máxima atenção para os pacientes, oferecendo a todos o carinho e assistência médica necessária. Veja nossa <b>estrutura</b>, e também a <b>equipe prestadora de serviços.</b></p>
         </div>
       </div>
@@ -36,32 +35,37 @@
         <!-- Three columns of text below the carousel -->
         <div class="row icones-quem-somos">
           <div class="col-lg-4 img visao-missao-valores">
-            <img class="rounded-circle circulo" src="../img/quem-somos/missão.png" alt="Generic placeholder image" width="140" height="140">
+            <img class="rounded-circle" src="../img/quem-somos/missão.png" alt="Generic placeholder image" width="140" height="140">
             <h2 class="h2_quem_somos">Missão</h2>
             <p class="paragrafo_quem_somos">É acolher idosos, com mais de 60 anos, estejam em situação de vulnerabilidade, ou com algum tipo de enfermidade, temos o dever de dar amor e assistência médica para aqueles que necessitam.</p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4 img visao-missao-valores">
-            <img class="rounded-circle circulo" src="../img/quem-somos/visao.png" alt="Generic placeholder image" width="140" height="140">
+            <img class="rounded-circle" src="../img/quem-somos/visao.png" alt="Generic placeholder image" width="140" height="140">
             <h2 class="h2_quem_somos">Visão</h2>
             <p class="paragrafo_quem_somos">Promover uma melhor qualidade de vida para os idosos, oferendo o máximo carinho e a afeto das pessoas a sua volta com atenção que eles merecem.</p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4 img visao-missao-valores">
-            <img class="rounded-circle circulo" src="../img/quem-somos/valores.png" alt="Generic placeholder image" width="140" height="140">
+            <img class="rounded-circle" src="../img/quem-somos/valores.png" alt="Generic placeholder image" width="140" height="140">
             <h2 class="h2_quem_somos">Valores</h2>
             <p class="paragrafo_quem_somos">Ética, Respeito a saúde e o bem-estar do idoso.
             Integridade para com o próximo, acreditamos todos merecerem uma chance de viver seus momentos convivendo ao redor dos seus semelhantes com harmonia e paz.</p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
-      <div class="jumbotron mb-0">
-        <div class="container">
-          <h2 class="display-4 estrutura">ESTRUTURA</h1>
-        </div>
+
+      <div class="container-fluid pb-4 estrutura">
+        <h2 class="display-4">ESTRUTURA</h2>
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
+            <li data-target="#myCarousel" data-slide-to="5"></li>
+            <li data-target="#myCarousel" data-slide-to="6"></li>
+            <li data-target="#myCarousel" data-slide-to="7"></li>
+            <li data-target="#myCarousel" data-slide-to="8"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">

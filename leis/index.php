@@ -21,10 +21,10 @@
      
     <main role="main">
 
-      <section class="jumbotron text-center">
+      <section class="jumbotron mb-0 text-center text-white bg-img">
         <div class="container">
-          <h1 class="jumbotron-heading">Proteção a quem precisa</h1>
-          <p class="lead text-muted">Área em construção!</p>
+          <h1 class="jumbotron-heading text-uppercase mb-0 shadow">Proteção a quem precisa</h1>
+          <p class="p-header mb-3 shadow">Área em construção!</p>
           <p>
             <a href="../contato"  class="btn btn-primary my-2">Deixe-nos uma mensagem</a>
             <a href="../voluntario" class="btn btn-secondary my-2">Doe seu tempo</a>
@@ -34,7 +34,7 @@
 
       <div class="container">
         <!-- Example row of columns -->
-        <div class="row my-3" >
+        <div class="row my-4" >
           <div class="col-md-4">
             <h2>Política Nacional do Idoso - Lei n°8.842/1994</h2>
             <p>A política nacional do idoso tem por objetivo assegurar os direitos sociais do idoso, criando condições para promover sua autonomia, integração e participação efetiva na sociedade.</p>
@@ -65,5 +65,7 @@
     </main>
     <!-- FOOTER -->
     <?php include('../includes/footer.html');?>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   </body>
 </html>
