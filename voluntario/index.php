@@ -24,7 +24,7 @@
 	          <h1 class="jumbotron-heading text-uppercase mb-0 shadow">Seja um voluntário</h1>
 	          <p class="p-header mb-3 shadow">Você pode ajudar participando das atividades do <b> Lar</b>, nos nossos <b>Eventos Beneficentes, Bazares</b> ou como <b>Voluntário Ouvinte</b>.</p>
 	          <p>
-	            <a class="btn btn-success btn-lg" href="#" target="_blank">QUERO SER UM VOLUNTÁRIO</a>
+	            <a class="btn btn-success btn-lg" href="../contato/#contact">QUERO SER UM VOLUNTÁRIO</a>
 	          </p>
 	        </div>
 	    </section>
@@ -33,7 +33,7 @@
 			TIMELINE
 			**************************************-->
 	    <section class="bg-primary">
-			<div class="container-fluid pl-4 pr-4">
+			<div class="container-fluid px-md-4">
 			  <div class="page-header">
 				<h2 id="timeline" class="text-center text-white text-uppercase py-4">10 Motivos para ser um voluntário</h2>
 			  </div>

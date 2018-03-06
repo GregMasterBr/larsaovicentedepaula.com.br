@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Lar São Vicente de Paula::Sorocaba</title>
-		<meta name="description" content="Dúvidas Frequentes" />
+		<meta name="description" content="Formas de entrar em contato com o Lar São Vicente de Paulo e FAQ" />
 	    <meta name="author" content="Anne, Gregório, Luan, Tamires" />
 	    <meta name="keywords" content="Velhinhos, Lar São Vicente de Paula, Social, Idosos, Sorocaba, Maior idade" />
 		<link rel="icon" type="image/png" href="../favicon.png" />
@@ -19,9 +19,11 @@
 			HEADER
 			**************************************-->
 		<?php include('../includes/menu-principal.php');?>
-		<div class="container-fluid img">
-	      	<img class="img-fluid d-block mx-auto" src="../img/contato/contato.png" alt="Contate-nos">
-          </div>
+		<section class="jumbotron mb-0 text-center text-white bg-img">
+	        <div class="container">
+	          <h1 class="jumbotron-heading text-uppercase mb-0 shadow">Contate-nos</h1>
+	        </div>
+	    </section>
 
 		<!--**************************************
 			FORMULÁRIO CONTATO
@@ -92,7 +94,7 @@
           	<div class="container">
           		<div class="row">
           			<div class="col-12 col-sm-6">
-          				<address>
+          				<address class="my-3">
           					<i class="fas fa-map-marker"></i> Avenida Betânia, 1255 - Jardim Betânia<br>
           					&emsp; &thinsp; Sorocaba - SP &emsp; CEP: 18071-590<br>
           					<i class="fas fa-phone"></i> (15) 3313-2025 ou (15) 3313-9100<br>
@@ -100,7 +102,7 @@
           				</address>
           			</div>
           			<div class="col-12 col-sm-6">
-          				<h6>
+          				<h6 class="my-md-3 mb-3">
           					<i class="far fa-clock"></i> Horário de visitas <br>
           					&emsp; &thinsp; Segunda a Sábado <br>
           					&emsp; &thinsp; - 09h as 11h e <br>

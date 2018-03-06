@@ -7,14 +7,50 @@
   Autor URI:  
 */
 
+/*------------------------------------------------
+Header
+-------------------------------------------------*/
+  :root {
+    --jumbotron-padding-y: 25rem;
+  }
 
-.contato .container-fluid.img{
-	background-color: rgb(62,185,255);
+  .jumbotron {
+    padding-top: var(--jumbotron-padding-y);
+  }
+  @media (min-width: 768px) {
+    .jumbotron {
+      padding-top: calc(var(--jumbotron-padding-y) * 0.9);
+    }
+  }
+
+  .jumbotron .container {
+    max-width: 60rem;
+  }
+
+  .bg-img {
+    background: url('../img/contato/contato.png') 50% 50% no-repeat; 
+    background-size:cover;
+    width: 100%;
+    height: 30em;
+    display: table;
+  }
+
+ /*-------------------------
+  Form
+ ---------------------------*/
+.contato .formulario-contato{
+	background-color: #efefef;
 }
+ /*-------------------------
+  SEÇÃO ENDEREÇO
+ ---------------------------*/
 .contato .endereco .container .row{
 	border-bottom: solid 3px silver;
 	border-top: solid 3px silver;
 }
+ /*-------------------------
+  FAQ
+ ---------------------------*/
 .contato .FAQ{
 	margin-top: 5px;
 	background-color: rgb(62,185,255);
@@ -24,12 +60,6 @@
 }
 .contato .FAQ .card-header{
 	background-color: #2d88bc;
-}
-.contato .formulario-contato{
-	background-color: #efefef;
-}
-.endereco .container address, .endereco .container h6{
-	margin-top: 1rem;
 }
 .contato .card .btn {
 	white-space: unset;
