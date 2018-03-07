@@ -1,29 +1,49 @@
-.paragrafo_quem_somos{
+
+/*------------------------------------------------
+Header
+-------------------------------------------------*/
+  :root {
+    --jumbotron-padding-y: 2rem;
+  }
+
+  .jumbotron {
+    padding-top: var(--jumbotron-padding-y);
+    padding-bottom: var(--jumbotron-padding-y);
+  }
+  @media (min-width: 768px) {
+    .jumbotron {
+      padding-top: calc(var(--jumbotron-padding-y) * 2);
+    }
+  }
+
+  .jumbotron .container {
+    max-width: 60rem;
+  }
+
+  .bg-img {
+    background: url('../img/quem-somos/fundo.png') 20% 20% no-repeat; 
+    background-size:cover;
+    width: 100%;
+    height: 30em;
+    display: table;
+  }
+ /*-------------------------
+ 	FIM HEADER
+ ---------------------------*/
+
+ .paragrafo_quem_somos{
 	font-size: 19px;
 	text-align: justify;
 	line-height: 40px;
 	margin-top: 2%;
 	
 }
-.paragrafo_quem_somos.topo, h1{
-	text-shadow: 1px 1px 5px #000;
-	
+.estrutura{
+	background-color: #e9ecef;
 }
-.display-4.estrutura{
+.display-4{
 	font-weight: 500;
-}
-h2{
 	text-align: center;
-}
-.carousel.slide .carousel-inner .carousel-item img, .masthead .container-fluid {
-		height: 37em;
-		max-width: 100%;
-		width: 100%;
-}
-
-.img-fluid{
-	height: 100%;
-	width: 100%;
 }
  
 .carousel-caption{     
@@ -31,20 +51,23 @@ h2{
 	width: 100%;
 	right: 0%;
 	left: 0%;
+	top: 200px;
+	padding-top: 5px;
 }
+
+.carousel-item .container{
+	display: table;
+	margin-top: 210px;
+}
+
+.carousel-control-prev, .carousel-control-next{
+	height: 200px;
+	width: 5%;
+}
+
 .text-muted{
 	color: #fff !important;
 }
-
-.text-center{
-  background:blue url('../img/quem-somos/fundo.png'); 
-  background-repeat: no-repeat; 
-  background-size:cover;
-  background-position: 20% 20%;
-  padding-top: 2%;
-  height: 30em;
-  color: #fff;
- }
 
  .visao-missao-valores{
  	text-align: center;
@@ -54,5 +77,40 @@ h2{
  	/*background: #FFE23A;*/
  	padding: 5%;
  }
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 576px) { 
+	.carousel-caption{     
+		top: 300px;
+		padding-top: 10px;
+	}
 
+	.carousel-item .container{
+		margin-top: 190px;
+	}
+
+	.carousel-control-prev, .carousel-control-next{
+		height: 300px;
+	}
+}
+
+/* Medium devices (tablets, 768px and up)*/ 
+@media (min-width: 768px) {
+	.carousel.slide{
+		padding: 0 1rem;
+	}
+	.carousel-caption{
+		top: unset;
+		bottom: 20px;
+		padding-top: 20px;
+	}
+
+	.carousel-item .container{
+		display: block;
+		margin-top: 0;
+	}
+
+	.carousel-control-prev, .carousel-control-next{
+		height: unset;
+	}
+}
 

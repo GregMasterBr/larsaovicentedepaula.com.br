@@ -10,8 +10,34 @@
 /*------------------------------------------------
 Header
 -------------------------------------------------*/
-  header, .container-fluid.text-center.pb-5{
-    background-color: springgreen;
+  :root {
+    --jumbotron-padding-y: 4.5rem;
+  }
+
+  .jumbotron {
+    padding-top: var(--jumbotron-padding-y);
+  }
+  @media (min-width: 534px) {
+    .jumbotron {
+      padding-top: calc(var(--jumbotron-padding-y) * 2.2);
+    }
+  }
+
+  .jumbotron .container {
+    max-width: 60rem;
+  }
+
+  .bg-img {
+    background: url('../img/voluntario/voluntario.jpg') 50% 50% no-repeat; 
+    background-size:cover;
+    width: 100%;
+    height: 30em;
+    display: table;
+  }
+  .btn-lg{
+    font-size: 1rem;
+    box-shadow: 1px 1px 5px #000;
+    font-weight: bold;
   }
 /*-------------------------------------------------
 Slide Depoimento Voluntário
@@ -243,19 +269,21 @@ Ajustar em telas menores
 ------------------------------------------------------------*/
 @media (max-width: 767px) {
     ul.timeline:before {
-        left: 40px;
+        left: 20px;
     }
 
     ul.timeline > li > .timeline-panel {
-        width: calc(100% - 110px);
-        width: -moz-calc(100% - 110px);
-        width: -webkit-calc(100% - 110px);
+        width: calc(100% - 70px);
+        width: -moz-calc(100% - 70px);
+        width: -webkit-calc(100% - 70px);
     }
 
     ul.timeline > li > .timeline-badge {
-        left: -10px;
-        margin-left: 0;
-        top: 16px;
+      width: 60px;
+      height: 60px;
+      top: 35px;
+      left: -10px;
+      margin-left: 0;
     }
 
     ul.timeline > li > .timeline-panel {

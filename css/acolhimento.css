@@ -7,8 +7,6 @@
 	background-color: #00B229;
 }
 .h1-acolhimento{ /*cabeçalho onde está escrito REGRAS DE ACOLHIMENTO*/
-	text-align: center;
-	color: #ffffff;
 	background-color: #00B229;
 
 }
@@ -31,10 +29,6 @@
 	font-size: 45px;
 }
 
-.list-group{ /*ul*/
-	margin-top: 3%;
-}
-
 
 .lista-acolhimento{ /*toda a parte em vermelho escuro onde estão os dois spam, o ul e o botao*/
 	background:#ef4343;
@@ -50,7 +44,6 @@
 	background-color: #E21914;
 	font-size: 30px;
 	text-align: center;
-	margin: 5% 0% !important;
 	display: block;
 	text-align: center;
 	width: 100%;
