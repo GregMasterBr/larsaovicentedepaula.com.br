@@ -19,7 +19,7 @@
 			HEADER
 			**************************************-->
 		<?php include('../includes/menu-principal.php');?>
-		<section class="jumbotron mb-0 text-center text-white bg-img">
+		<section class="jumbotron mb-0 pb-0 text-center text-white bg-img">
 	        <div class="container">
 	          <h1 class="jumbotron-heading text-uppercase mb-0 shadow">Contate-nos</h1>
 	        </div>

@@ -41,7 +41,7 @@
 			  </div>
 			  <ul class="timeline">
 				<li>
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo1.png"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo1.png"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">Todos podem ser voluntários</h4>
@@ -50,7 +50,7 @@
 				  </div>
 				</li>
 				<li class="timeline-inverted">
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo2.jpg"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo2.jpg"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">Trabalho voluntário é uma via de mão dupla: o voluntário doa e recebe</h4>
@@ -59,7 +59,7 @@
 				  </div>
 				</li>
 				<li>
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo3.jpg"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo3.jpg"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">Voluntariado é uma relação humana, rica e solidária</h4>
@@ -68,7 +68,7 @@
 				  </div>
 				</li>
 				<li class="timeline-inverted">
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo4.png"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo4.png"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">No voluntariado, todos ganham: o voluntário, aquele com quem o voluntário trabalha, a comunidade</h4>
@@ -77,7 +77,7 @@
 				  </div>
 				</li>
 				<li>
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo5.jpg"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo5.jpg"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">Voluntariado é uma ação duradoura e com qualidade</h4>
@@ -87,7 +87,7 @@
 				  </div>
 				</li>
 				<li class="timeline-inverted">
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo6.jpg"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo6.jpg"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">As formas de ação voluntária são tão variadas quanto as necessidades da comunidade e a criatividade do voluntário</h4>
@@ -96,7 +96,7 @@
 				  </div>
 				</li>
 				<li>
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo7.png"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo7.png"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">Voluntariado é ação</h4>
@@ -105,7 +105,7 @@
 				  </div>
 				</li>
 				<li class="timeline-inverted">
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo8.png"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo8.png"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">Cada um é voluntário a seu modo</h4>
@@ -114,7 +114,7 @@
 				  </div>
 				</li>
 				<li>
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo9.jpg"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo9.jpg"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">Voluntariado é escolha</h4>
@@ -123,7 +123,7 @@
 				  </div>
 				</li>
 				<li class="timeline-inverted">
-				  <div class="timeline-badge"><img src="../img/voluntario/motivo10.jpg"></div>
+				  <figure class="timeline-badge"><img src="../img/voluntario/motivo10.jpg"></figure>
 				  <div class="timeline-panel">
 					<div class="timeline-body">
 					  <h4 class="timeline-title">Voluntariado é um fenômeno mundial</h4>
@@ -157,17 +157,17 @@
 							<!-- Wrapper for carousel items -->
 							<div class="carousel-inner">
 								<div class="item carousel-item active left">
-									<div class="img-box"><img src="../img/thumb400x225.png" alt=""></div>
+									<figure class="img-box"><img src="../img/thumb400x225.png" alt=""></figure>
 									<p class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
 									<p class="overview"><b>Paula Wilson</b>, Media Analyst</p>
 								</div>
 								<div class="item carousel-item">
-									<div class="img-box"><img src="../img/thumb400x225.png" alt=""></div>
+									<figure class="img-box"><img src="../img/thumb400x225.png" alt=""></figure>
 									<p class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget nisi a mi suscipit tincidunt. Utmtc tempus dictum risus. Pellentesque viverra sagittis quam at mattis. Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
 									<p class="overview"><b>Antonio Moreno</b>, Web Developer</p>
 								</div>
 								<div class="item carousel-item left">
-									<div class="img-box"><img src="../img/thumb400x225.png" alt=""></div>
+									<figure class="img-box"><img src="../img/thumb400x225.png" alt=""></figure>
 									<p class="testimonial">Phasellus vitae suscipit justo. Mauris pharetra feugiat ante id lacinia. Etiam faucibus mauris id tempor egestas. Duis luctus turpis at accumsan tincidunt. Phasellus risus risus, volutpat vel tellus ac, tincidunt fringilla massa. Etiam hendrerit dolor eget rutrum.</p>
 									<p class="overview"><b>Michael Holz</b>, Seo Analyst</p>
 								</div>

@@ -118,51 +118,51 @@
         </div>
         <div class="row text-center">
           <div class="col-md-3 col-6">
-            <picture>
+            <figure>
               <img src="icons/enfermeiros.png" alt="Enfermeiros">
-            </picture>
+            </figure>
             <h4 class="service-heading">Serviços de Enfermagem</h4>
           </div>
           <div class="col-md-3 col-6">
-            <picture>
+            <figure>
               <img src="icons/cuidadores.png" alt="Cuidadores de idosos">
-            </picture>
+            </figure>
             <h4 class="service-heading">Cuidadores de idosos</h4>
           </div>
           <div class="col-md-3 col-6">
-            <picture>
+            <figure>
               <img src="icons/assistente social.png" alt="Assistentes Sociais">
-            </picture>
+            </figure>
             <h4 class="service-heading">Assistentes sociais</h4>
           </div>
           <div class="col-md-3 col-6">
-            <picture>
+            <figure>
               <img src="icons/nutricionista.png" alt="Nutricionista">
-            </picture>
+            </figure>
             <h4 class="service-heading">Nutricionista</h4>
           </div>
           <div class="col-md-3 col-6">
-            <picture>
+            <figure>
               <img src="icons/fisioterapia.png" alt="Fisioterapeuta">
-            </picture>
+            </figure>
             <h4 class="service-heading">Fisioterapeuta</h4>
           </div>
           <div class="col-md-3 col-6">
-            <picture>
+            <figure>
               <img src="icons/psicologia.png" alt="Psicóloga">
-            </picture>
+            </figure>
             <h4 class="service-heading">Psicóloga</h4>
           </div>
           <div class="col-md-3 col-6">
-            <picture>
+            <figure>
               <img src="icons/podologia.png" alt="Podóloga">
-            </picture>
+            </figure>
             <h4 class="service-heading">Podóloga</h4>
           </div>
           <div class="col-md-3 col-6">
-            <picture>
+            <figure>
               <img src="icons/cabeleireiro.png" alt="Cabeleireiros">
-            </picture>
+            </figure>
             <h4 class="service-heading">Cabeleireiros </h4>
           </div>
         </div>

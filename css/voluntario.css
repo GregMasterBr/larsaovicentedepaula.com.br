@@ -267,7 +267,7 @@ Copyright timeline
 /*----------------------------------------------------------
 Ajustar em telas menores
 ------------------------------------------------------------*/
-@media (max-width: 767px) {
+@media (max-width: 992px) {
     ul.timeline:before {
         left: 20px;
     }
